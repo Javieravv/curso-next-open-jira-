@@ -1,0 +1,7 @@
+/* Modulo de css */
+
+.dragging {
+    background-color: rgba(237, 143, 143, 0.4);
+    border-radius: 10px;
+    border: 1px dashed black;
+}
